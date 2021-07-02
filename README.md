@@ -1,6 +1,7 @@
-# request_api
+# Flutter: Request API
 
-A new Flutter project.
+On this flutter project, the API i'm using is AirVisual API. You can read the API docs in this [link](https://api-docs.iqair.com/)
+Happy Coding!
 
 ## Getting Started
 
